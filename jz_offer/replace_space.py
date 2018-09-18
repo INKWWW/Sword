@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""替换空格"""
 
 class Solution:
     def replaceSpace(self, s):
